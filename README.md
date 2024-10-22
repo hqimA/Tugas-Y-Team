@@ -1,4 +1,4 @@
-<p align="center"><a href="https://Yy-team.com" target="_blank"><img src="https://play-lh.googleusercontent.com/ZJTrIbQ54LYCM5w8lVVME6wAA39nIJ0wBBPo5tFLzfBSUYQezXJmFCwpmcIZG6KyCUGz" width="400" alt="Y-Team Logo"></a></p>
+<p align="center"><a href="https://Yy-team.com" target="_blank"><img src="https://play-lh.googleusercontent.com/ZJTrIbQ54LYCM5w8lVVME6wAA39nIJ0wBBPo5tFLzfBSUYQezXJmFCwpmcIZG6KyCUGz" width="200" alt="Y-Team Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
